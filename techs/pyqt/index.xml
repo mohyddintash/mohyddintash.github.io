@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PyQt on Mohyddin Tash</title>
-    <link>https://example.com/techs/pyqt/</link>
+    <link>https://mohyddintash.github.io/techs/pyqt/</link>
     <description>Recent content in PyQt on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     <lastBuildDate>Wed, 01 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/techs/pyqt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohyddintash.github.io/techs/pyqt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BINARY ANALYTICS Version I</title>
-      <link>https://example.com/portfolio/binary-analytics/</link>
+      <link>https://mohyddintash.github.io/portfolio/binary-analytics/</link>
       <pubDate>Wed, 01 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/binary-analytics/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/binary-analytics/</guid>
       <description>Binary Analytics is
  A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
  This project was the first collaboration with Binary Analytics Team (check Versions II) for details.

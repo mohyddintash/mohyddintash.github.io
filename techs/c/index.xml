@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Mohyddin Tash</title>
-    <link>https://example.com/techs/c/</link>
+    <link>https://mohyddintash.github.io/techs/c/</link>
     <description>Recent content in C on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     <lastBuildDate>Fri, 01 Nov 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/techs/c/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohyddintash.github.io/techs/c/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Troy Dimensions</title>
-      <link>https://example.com/portfolio/troy/</link>
+      <link>https://mohyddintash.github.io/portfolio/troy/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/troy/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/troy/</guid>
       <description>Troy Dimensions manufactures professional grade, dynamic, DLP 3D Printers. The goal of the machine is to establish the industry benchmark for professional 3D printing for businesses around the globe with accessible and reliable 3D printers.
  I joined Troy&amp;rsquo;s team in November 2019 when the software engineer was in the process of transitioning to a new company. The company at that time was in the process of building the second version of the printer, so the transition had to be swift and fast.</description>
     </item>
     
     <item>
       <title>Pathfinder</title>
-      <link>https://example.com/portfolio/pathfinder/</link>
+      <link>https://mohyddintash.github.io/portfolio/pathfinder/</link>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/pathfinder/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/pathfinder/</guid>
       <description>Pathfinder is a fully automated visual aid artificial assistant for the visually impaired and navigation system running in parallel via a sensor-fitted belt, connected to a cloud based mobile application.
 This project started out while my friends and I were still at the university. It was one of our first experiences in the ecosystem of startups and entrepreneurship.
 How it works: The device consists of two main parts:

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electron on Mohyddin Tash</title>
-    <link>https://example.com/techs/electron/</link>
+    <link>https://mohyddintash.github.io/techs/electron/</link>
     <description>Recent content in Electron on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/techs/electron/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mohyddintash.github.io/techs/electron/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BINARY ANALYTICS Version II</title>
-      <link>https://example.com/portfolio/binary-analytics-ii/</link>
+      <link>https://mohyddintash.github.io/portfolio/binary-analytics-ii/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>https://example.com/portfolio/binary-analytics-ii/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/binary-analytics-ii/</guid>
       <description>Binary Analytics is
  A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
  This project was the second collaboration with Binary Analytics Team check Versions Ifor details.
