@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS on Mohyddin Tash</title>
+    <link>https://example.com/techs/js/</link>
+    <description>Recent content in JS on Mohyddin Tash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mohyddin Tash</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/techs/js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Troy Dimensions</title>
+      <link>https://example.com/portfolio/troy/</link>
+      <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/troy/</guid>
+      <description>Troy Dimensions manufactures professional grade, dynamic, DLP 3D Printers. The goal of the machine is to establish the industry benchmark for professional 3D printing for businesses around the globe with accessible and reliable 3D printers.
+ I joined Troy&amp;rsquo;s team in November 2019 when the software engineer was in the process of transitioning to a new company. The company at that time was in the process of building the second version of the printer, so the transition had to be swift and fast.</description>
+    </item>
+    
+  </channel>
+</rss>

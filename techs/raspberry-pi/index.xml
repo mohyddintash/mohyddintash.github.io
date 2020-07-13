@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Mohyddin Tash</title>
+    <link>https://example.com/techs/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Mohyddin Tash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mohyddin Tash</copyright>
+    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/techs/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BINARY ANALYTICS Version II</title>
+      <link>https://example.com/portfolio/binary-analytics-ii/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/binary-analytics-ii/</guid>
+      <description>Binary Analytics is
+ A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
+ This project was the second collaboration with Binary Analytics Team check Versions Ifor details.
+In 2019, my hardware partner and I were contacted by the CEO of Binary Analytics in order to discuss phase two of the product.
+In a nutshell, the project was to design and develop an arcade-like terminal device that consists of a screen and four large buttons.</description>
+    </item>
+    
+    <item>
+      <title>Troy Dimensions</title>
+      <link>https://example.com/portfolio/troy/</link>
+      <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/troy/</guid>
+      <description>Troy Dimensions manufactures professional grade, dynamic, DLP 3D Printers. The goal of the machine is to establish the industry benchmark for professional 3D printing for businesses around the globe with accessible and reliable 3D printers.
+ I joined Troy&amp;rsquo;s team in November 2019 when the software engineer was in the process of transitioning to a new company. The company at that time was in the process of building the second version of the printer, so the transition had to be swift and fast.</description>
+    </item>
+    
+    <item>
+      <title>BINARY ANALYTICS Version I</title>
+      <link>https://example.com/portfolio/binary-analytics/</link>
+      <pubDate>Wed, 01 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/binary-analytics/</guid>
+      <description>Binary Analytics is
+ A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
+ This project was the first collaboration with Binary Analytics Team (check Versions II) for details.
+In 2018, my partner and I were contacted by the CEO of Binary Analytics after being referred to him by a mutual acquaintance. After sitting with him, he described his vision and we started to work on the requirements.</description>
+    </item>
+    
+    <item>
+      <title>Smart Goggles</title>
+      <link>https://example.com/portfolio/smart-goggles/</link>
+      <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/smart-goggles/</guid>
+      <description>Wearable military grade glasses that live streams facial data to an online server for analysis, a bone conductor then provides feedback to personnel. Face recognition server takes less than 2 seconds to process the image.
+Requirements: The client had a facial recognition server already implemented. They wanted a wearable glass that can collect images and send them to the server for verification, then after getting the server&amp;rsquo;s response which is an audio file, play it through the bone conductor attached behind the user&amp;rsquo;s ear.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality Internship at C.E.R.V</title>
+      <link>https://example.com/portfolio/cerv/</link>
+      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/cerv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

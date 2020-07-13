@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Mohyddin Tash</title>
+    <link>https://example.com/techs/c#/</link>
+    <description>Recent content in C# on Mohyddin Tash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Mohyddin Tash</copyright>
+    <lastBuildDate>Sat, 02 May 2015 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/techs/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pathfinder</title>
+      <link>https://example.com/portfolio/pathfinder/</link>
+      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/pathfinder/</guid>
+      <description>Pathfinder is a fully automated visual aid artificial assistant for the visually impaired and navigation system running in parallel via a sensor-fitted belt, connected to a cloud based mobile application.
+This project started out while my friends and I were still at the university. It was one of our first experiences in the ecosystem of startups and entrepreneurship.
+How it works: The device consists of two main parts:
+ The belt which contains the arduino and the LAIDAR sensor for detecting slopes and edges, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
