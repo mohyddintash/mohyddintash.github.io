@@ -121,10 +121,10 @@ For example, see content/_index.md page:</description>
     
     <item>
       <title>Smart Glasses</title>
-      <link>https://mohyddintash.github.io/portfolio/smart-glassess/</link>
+      <link>https://mohyddintash.github.io/portfolio/smart-glasses/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://mohyddintash.github.io/portfolio/smart-glassess/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/smart-glasses/</guid>
       <description>Wearable military grade glasses that live streams facial data to an online server for analysis, a bone conductor then provides feedback to personnel. Face recognition server takes less than 2 seconds to process the image.
 Requirements: The client had a facial recognition server already implemented. They wanted a wearable glass that can collect images and send them to the server for verification, then after getting the server&amp;rsquo;s response which is an audio file, play it through the bone conductor attached behind the user&amp;rsquo;s ear.</description>
     </item>
