@@ -48,11 +48,11 @@ In 2018, my partner and I were contacted by the CEO of Binary Analytics after be
     </item>
     
     <item>
-      <title>Smart Goggles</title>
-      <link>https://mohyddintash.github.io/portfolio/smart-goggles/</link>
+      <title>Smart Glasses</title>
+      <link>https://mohyddintash.github.io/portfolio/smart-glassess/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://mohyddintash.github.io/portfolio/smart-goggles/</guid>
+      <guid>https://mohyddintash.github.io/portfolio/smart-glassess/</guid>
       <description>Wearable military grade glasses that live streams facial data to an online server for analysis, a bone conductor then provides feedback to personnel. Face recognition server takes less than 2 seconds to process the image.
 Requirements: The client had a facial recognition server already implemented. They wanted a wearable glass that can collect images and send them to the server for verification, then after getting the server&amp;rsquo;s response which is an audio file, play it through the bone conductor attached behind the user&amp;rsquo;s ear.</description>
     </item>
@@ -65,15 +65,6 @@ Requirements: The client had a facial recognition server already implemented. Th
       <guid>https://mohyddintash.github.io/portfolio/buildink/</guid>
       <description>In mid 2017, I joined five partners from different backgrounds to co found Buildink, a Concrete 3D printing company with the vision to enable the delivery of houses in less than one week, using our environmental friendly proprietary signature concrete mixture.
 Then in November 2017, We got into an incubator program called Flat6Labs, which helped us with seed money as well as getting our feet into the door by helping us establishing and registering the company locally.</description>
-    </item>
-    
-    <item>
-      <title>Virtual Reality Internship at C.E.R.V</title>
-      <link>https://mohyddintash.github.io/portfolio/cerv/</link>
-      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
-      
-      <guid>https://mohyddintash.github.io/portfolio/cerv/</guid>
-      <description></description>
     </item>
     
   </channel>
