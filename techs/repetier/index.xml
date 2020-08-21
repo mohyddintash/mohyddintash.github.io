@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Repetier on Mohyddin Tash</title>
-    <link>https://mohyddintash.github.io/techs/repetier/</link>
+    <link>http://mohyddin.tk/techs/repetier/</link>
     <description>Recent content in Repetier on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     <lastBuildDate>Fri, 02 Nov 2018 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://mohyddintash.github.io/techs/repetier/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohyddin.tk/techs/repetier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Buildink</title>
-      <link>https://mohyddintash.github.io/portfolio/buildink/</link>
+      <link>http://mohyddin.tk/portfolio/buildink/</link>
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
-      <guid>https://mohyddintash.github.io/portfolio/buildink/</guid>
+      <guid>http://mohyddin.tk/portfolio/buildink/</guid>
       <description>In mid 2017, I joined five partners from different backgrounds to co found Buildink, a Concrete 3D printing company with the vision to enable the delivery of houses in less than one week, using our environmental friendly proprietary signature concrete mixture.
 Then in November 2017, We got into an incubator program called Flat6Labs, which helped us with seed money as well as getting our feet into the door by helping us establishing and registering the company locally.</description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C# on Mohyddin Tash</title>
-    <link>https://mohyddintash.github.io/techs/c#/</link>
+    <link>http://mohyddin.tk/techs/c#/</link>
     <description>Recent content in C# on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     <lastBuildDate>Sat, 02 May 2015 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://mohyddintash.github.io/techs/c#/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohyddin.tk/techs/c#/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pathfinder</title>
-      <link>https://mohyddintash.github.io/portfolio/pathfinder/</link>
+      <link>http://mohyddin.tk/portfolio/pathfinder/</link>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
-      <guid>https://mohyddintash.github.io/portfolio/pathfinder/</guid>
+      <guid>http://mohyddin.tk/portfolio/pathfinder/</guid>
       <description>Pathfinder is a fully automated visual aid artificial assistant for the visually impaired and navigation system running in parallel via a sensor-fitted belt, connected to a cloud based mobile application.
 This project started out while my friends and I were still at the university. It was one of our first experiences in the ecosystem of startups and entrepreneurship.
 How it works: The device consists of two main parts:

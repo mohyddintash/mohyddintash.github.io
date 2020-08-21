@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Mohyddin Tash</title>
-    <link>https://mohyddintash.github.io/designs/</link>
+    <link>http://mohyddin.tk/designs/</link>
     <description>Recent content in Designs on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
     
-	<atom:link href="https://mohyddintash.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mohyddin.tk/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
