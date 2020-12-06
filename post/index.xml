@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
-    
-	<atom:link href="http://mohyddin.tk/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="http://mohyddin.tk/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started</title>
       <link>http://mohyddin.tk/post/getting-started/</link>
