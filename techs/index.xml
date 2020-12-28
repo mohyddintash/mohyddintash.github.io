@@ -7,22 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
-    <lastBuildDate>Sat, 02 May 2020 19:47:09 +0200</lastBuildDate><atom:link href="http://mohyddin.tk/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 19:47:09 +0200</lastBuildDate><atom:link href="http://mohyddin.tk/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Electron</title>
-      <link>http://mohyddin.tk/techs/electron/</link>
-      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      <title>Arduino</title>
+      <link>http://mohyddin.tk/techs/arduino/</link>
+      <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/electron/</guid>
+      <guid>http://mohyddin.tk/techs/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://mohyddin.tk/techs/c&#43;&#43;/</link>
+      <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
+      
+      <guid>http://mohyddin.tk/techs/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded System</title>
       <link>http://mohyddin.tk/techs/embedded-system/</link>
-      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
       <guid>http://mohyddin.tk/techs/embedded-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electron</title>
+      <link>http://mohyddin.tk/techs/electron/</link>
+      <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
+      
+      <guid>http://mohyddin.tk/techs/electron/</guid>
       <description></description>
     </item>
     
@@ -158,15 +176,6 @@
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
       <guid>http://mohyddin.tk/techs/repetier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arduino</title>
-      <link>http://mohyddin.tk/techs/arduino/</link>
-      <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
-      
-      <guid>http://mohyddin.tk/techs/arduino/</guid>
       <description></description>
     </item>
     
