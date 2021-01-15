@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PORTFOLIO on Mohyddin Tash</title>
-    <link>http://mohyddin.tk/portfolio/</link>
+    <link>https://mohyddin.tk/portfolio/</link>
     <description>Recent content in PORTFOLIO on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 19:47:09 +0200</lastBuildDate><atom:link href="http://mohyddin.tk/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://mohyddin.tk/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>STEAM DOCTOR</title>
-      <link>http://mohyddin.tk/portfolio/steam-doctor/</link>
+      <link>https://mohyddin.tk/portfolio/steam-doctor/</link>
       <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/steam-doctor/</guid>
+      <guid>https://mohyddin.tk/portfolio/steam-doctor/</guid>
       <description>Steam Doctor is a disinfection chamber designed to provide steam powered sterialization for people in public places. It also has audio/visual output features.
 In this project I was responsible for design and development of the firmware that operates the system.
 Requirements:  The system is required to have the following properties:
@@ -22,10 +22,10 @@ Requirements:  The system is required to have the following properties:
     
     <item>
       <title>BINARY ANALYTICS Version II</title>
-      <link>http://mohyddin.tk/portfolio/binary-analytics-ii/</link>
+      <link>https://mohyddin.tk/portfolio/binary-analytics-ii/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/binary-analytics-ii/</guid>
+      <guid>https://mohyddin.tk/portfolio/binary-analytics-ii/</guid>
       <description>Binary Analytics is
  A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
  This project was the second collaboration with Binary Analytics Team check Versions Ifor details.
@@ -35,20 +35,20 @@ In a nutshell, the project was to design and develop an arcade-like terminal dev
     
     <item>
       <title>Troy Dimensions</title>
-      <link>http://mohyddin.tk/portfolio/troy/</link>
+      <link>https://mohyddin.tk/portfolio/troy/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/troy/</guid>
+      <guid>https://mohyddin.tk/portfolio/troy/</guid>
       <description>Troy Dimensions manufactures professional grade, dynamic, DLP 3D Printers. The goal of the machine is to establish the industry benchmark for professional 3D printing for businesses around the globe with accessible and reliable 3D printers.
  I joined Troy&amp;rsquo;s team in November 2019 when the software engineer was in the process of transitioning to a new company. The company at that time was in the process of building the second version of the printer, so the transition had to be swift and fast.</description>
     </item>
     
     <item>
       <title>BINARY ANALYTICS Version I</title>
-      <link>http://mohyddin.tk/portfolio/binary-analytics/</link>
+      <link>https://mohyddin.tk/portfolio/binary-analytics/</link>
       <pubDate>Wed, 01 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/binary-analytics/</guid>
+      <guid>https://mohyddin.tk/portfolio/binary-analytics/</guid>
       <description>Binary Analytics is
  A physical terminal and control dashboards that allow any company to become its own consultant. Learn more
  This project was the first collaboration with Binary Analytics Team (check Versions II) for details.
@@ -57,30 +57,30 @@ In 2018, my partner and I were contacted by the CEO of Binary Analytics after be
     
     <item>
       <title>Smart Glasses</title>
-      <link>http://mohyddin.tk/portfolio/smart-glasses/</link>
+      <link>https://mohyddin.tk/portfolio/smart-glasses/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/smart-glasses/</guid>
+      <guid>https://mohyddin.tk/portfolio/smart-glasses/</guid>
       <description>Wearable military grade glasses that live streams facial data to an online server for analysis, a bone conductor then provides feedback to personnel. Face recognition server takes less than 2 seconds to process the image.
 Requirements: The client had a facial recognition server already implemented. They wanted a wearable glass that can collect images and send them to the server for verification, then after getting the server&amp;rsquo;s response which is an audio file, play it through the bone conductor attached behind the user&amp;rsquo;s ear.</description>
     </item>
     
     <item>
       <title>Buildink</title>
-      <link>http://mohyddin.tk/portfolio/buildink/</link>
+      <link>https://mohyddin.tk/portfolio/buildink/</link>
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/buildink/</guid>
+      <guid>https://mohyddin.tk/portfolio/buildink/</guid>
       <description>In mid 2017, I joined five partners from different backgrounds to co found Buildink, a Concrete 3D printing company with the vision to enable the delivery of houses in less than one week, using our environmental friendly proprietary signature concrete mixture.
 Then in November 2017, We got into an incubator program called Flat6Labs, which helped us with seed money as well as getting our feet into the door by helping us establishing and registering the company locally.</description>
     </item>
     
     <item>
       <title>Pathfinder</title>
-      <link>http://mohyddin.tk/portfolio/pathfinder/</link>
+      <link>https://mohyddin.tk/portfolio/pathfinder/</link>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/portfolio/pathfinder/</guid>
+      <guid>https://mohyddin.tk/portfolio/pathfinder/</guid>
       <description>Pathfinder is a fully automated visual aid artificial assistant for the visually impaired and navigation system running in parallel via a sensor-fitted belt, connected to a cloud based mobile application.
 This project started out while my friends and I were still at the university. It was one of our first experiences in the ecosystem of startups and entrepreneurship.
 How it works: The device consists of two main parts:

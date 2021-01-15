@@ -2,198 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Mohyddin Tash</title>
-    <link>http://mohyddin.tk/techs/</link>
+    <link>https://mohyddin.tk/techs/</link>
     <description>Recent content in Techs on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 19:47:09 +0200</lastBuildDate><atom:link href="http://mohyddin.tk/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://mohyddin.tk/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arduino</title>
-      <link>http://mohyddin.tk/techs/arduino/</link>
+      <link>https://mohyddin.tk/techs/arduino/</link>
       <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/arduino/</guid>
+      <guid>https://mohyddin.tk/techs/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://mohyddin.tk/techs/c&#43;&#43;/</link>
+      <link>https://mohyddin.tk/techs/c&#43;&#43;/</link>
       <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/c&#43;&#43;/</guid>
+      <guid>https://mohyddin.tk/techs/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embedded System</title>
-      <link>http://mohyddin.tk/techs/embedded-system/</link>
+      <link>https://mohyddin.tk/techs/embedded-system/</link>
       <pubDate>Thu, 02 Jul 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/embedded-system/</guid>
+      <guid>https://mohyddin.tk/techs/embedded-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electron</title>
-      <link>http://mohyddin.tk/techs/electron/</link>
+      <link>https://mohyddin.tk/techs/electron/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/electron/</guid>
+      <guid>https://mohyddin.tk/techs/electron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://mohyddin.tk/techs/linux/</link>
+      <link>https://mohyddin.tk/techs/linux/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/linux/</guid>
+      <guid>https://mohyddin.tk/techs/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://mohyddin.tk/techs/python/</link>
+      <link>https://mohyddin.tk/techs/python/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/python/</guid>
+      <guid>https://mohyddin.tk/techs/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raspberry Pi</title>
-      <link>http://mohyddin.tk/techs/raspberry-pi/</link>
+      <link>https://mohyddin.tk/techs/raspberry-pi/</link>
       <pubDate>Sat, 02 May 2020 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/raspberry-pi/</guid>
+      <guid>https://mohyddin.tk/techs/raspberry-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>http://mohyddin.tk/techs/c/</link>
+      <link>https://mohyddin.tk/techs/c/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/c/</guid>
+      <guid>https://mohyddin.tk/techs/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSS3</title>
-      <link>http://mohyddin.tk/techs/css3/</link>
+      <link>https://mohyddin.tk/techs/css3/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/css3/</guid>
+      <guid>https://mohyddin.tk/techs/css3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HtML5</title>
-      <link>http://mohyddin.tk/techs/html5/</link>
+      <link>https://mohyddin.tk/techs/html5/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/html5/</guid>
+      <guid>https://mohyddin.tk/techs/html5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JS</title>
-      <link>http://mohyddin.tk/techs/js/</link>
+      <link>https://mohyddin.tk/techs/js/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/js/</guid>
+      <guid>https://mohyddin.tk/techs/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NodeJS</title>
-      <link>http://mohyddin.tk/techs/nodejs/</link>
+      <link>https://mohyddin.tk/techs/nodejs/</link>
       <pubDate>Fri, 01 Nov 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/nodejs/</guid>
+      <guid>https://mohyddin.tk/techs/nodejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PyQt</title>
-      <link>http://mohyddin.tk/techs/pyqt/</link>
+      <link>https://mohyddin.tk/techs/pyqt/</link>
       <pubDate>Wed, 01 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/pyqt/</guid>
+      <guid>https://mohyddin.tk/techs/pyqt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bluetooth Programming</title>
-      <link>http://mohyddin.tk/techs/bluetooth-programming/</link>
+      <link>https://mohyddin.tk/techs/bluetooth-programming/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/bluetooth-programming/</guid>
+      <guid>https://mohyddin.tk/techs/bluetooth-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jave</title>
-      <link>http://mohyddin.tk/techs/jave/</link>
+      <link>https://mohyddin.tk/techs/jave/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/jave/</guid>
+      <guid>https://mohyddin.tk/techs/jave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi Direct</title>
-      <link>http://mohyddin.tk/techs/wifi-direct/</link>
+      <link>https://mohyddin.tk/techs/wifi-direct/</link>
       <pubDate>Sat, 02 Feb 2019 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/wifi-direct/</guid>
+      <guid>https://mohyddin.tk/techs/wifi-direct/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Printing</title>
-      <link>http://mohyddin.tk/techs/3d-printing/</link>
+      <link>https://mohyddin.tk/techs/3d-printing/</link>
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/3d-printing/</guid>
+      <guid>https://mohyddin.tk/techs/3d-printing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marlin</title>
-      <link>http://mohyddin.tk/techs/marlin/</link>
+      <link>https://mohyddin.tk/techs/marlin/</link>
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/marlin/</guid>
+      <guid>https://mohyddin.tk/techs/marlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repetier</title>
-      <link>http://mohyddin.tk/techs/repetier/</link>
+      <link>https://mohyddin.tk/techs/repetier/</link>
       <pubDate>Fri, 02 Nov 2018 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/repetier/</guid>
+      <guid>https://mohyddin.tk/techs/repetier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C#</title>
-      <link>http://mohyddin.tk/techs/c#/</link>
+      <link>https://mohyddin.tk/techs/c#/</link>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/c#/</guid>
+      <guid>https://mohyddin.tk/techs/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Phone</title>
-      <link>http://mohyddin.tk/techs/windows-phone/</link>
+      <link>https://mohyddin.tk/techs/windows-phone/</link>
       <pubDate>Sat, 02 May 2015 19:47:09 +0200</pubDate>
       
-      <guid>http://mohyddin.tk/techs/windows-phone/</guid>
+      <guid>https://mohyddin.tk/techs/windows-phone/</guid>
       <description></description>
     </item>
     
