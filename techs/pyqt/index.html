@@ -19,7 +19,7 @@
 
 
 
-<link rel="stylesheet" href="https://mohyddin.tk/sass/style.min.8f6710aace87248d4d3eb9b3361cd40bec371f05cce13fbfc1eee9d86dbaeafb.css" integrity="sha256-j2cQqs6HJI1NPrmzNhzUC&#43;w3HwXM4T&#43;/we7p2G266vs=" media="screen">
+<link rel="stylesheet" href="https://mohyddin.tk/sass/style.min.b20e1385b5c0ce2620456c75008a507918d76ee2fed49a87e93c370464c10918.css" integrity="sha256-sg4ThbXAziYgRWx1AIpQeRjXbuL&#43;1JqH6Tw3BGTBCRg=" media="screen">
 <link rel="stylesheet" href="https://mohyddin.tk/syntax.min.css" integrity="" media="screen">
 
   <meta property="og:title" content="PyQt" />
@@ -40,7 +40,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="/">
-        <img src='https://mohyddin.tk/images/me.jpeg' alt="Profile Pathfinder" class="rounded-logo">
+        <img src='https://mohyddin.tk/images/me.jpeg' alt="Profile BINARY ANALYTICS Version II" class="rounded-logo">
       </a>
     </div>
     <h2>Hi, I'm Mo 👋</h2>
@@ -124,6 +124,15 @@
 
   <div class="content-wrapper">
     
+
+<div class="theme-switch-wrapper">
+    <label class="theme-switch" for="checkbox">
+ <input type="checkbox" id="checkbox" />
+ <div class="slider round"></div>
+</label>
+ <em>Enable Dark Mode!</em>
+</div>
+    
       <div class="breadcrumb">
   
 
@@ -185,5 +194,37 @@
   </footer>
   <link href="https://fonts.googleapis.com/css?family=Montserrat:500,600|Raleway:400,400i,600" rel="stylesheet">
   
+
+  <script language="JavaScript">
+
+    window
+      .matchMedia("(prefers-color-scheme: dark)")
+      .addListener(e => (e.matches ? enableDarkMode() : disableDarkMode()))
+
+    const toggleButton = document.querySelector('.theme-switch input[type="checkbox"]');
+
+    const darkMode = localStorage.getItem('theme');
+    if (darkMode === "dark") enableDarkMode()
+
+    toggleButton.addEventListener('click', (e) => {
+      const darkMode = localStorage.getItem('theme');
+      if (darkMode === 'dark') {
+        disableDarkMode();
+      } else {
+        enableDarkMode();
+      }
+    });
+
+    function enableDarkMode() {
+      document.body.classList.add('dark');
+      localStorage.setItem('theme', 'dark');
+      toggleButton.innerHTML = '☀️';
+    }
+    function disableDarkMode() {
+      document.body.classList.remove('dark');
+      localStorage.setItem('theme', 'light');
+      toggleButton.innerHTML = '🌒';
+    }
+  </script>
 </body>
 </html>
