@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C# on Mohyddin Tash</title>
-    <link>https://mohyddin.tk/techs/c#/</link>
-    <description>Recent content in C# on Mohyddin Tash</description>
+    <title>C-Sharp on Mohyddin Tash</title>
+    <link>https://mohyddin.tk/techs/c-sharp/</link>
+    <description>Recent content in C-Sharp on Mohyddin Tash</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Mohyddin Tash</copyright>
-    <lastBuildDate>Sat, 02 May 2015 19:47:09 +0200</lastBuildDate><atom:link href="https://mohyddin.tk/techs/c#/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2015 19:47:09 +0200</lastBuildDate><atom:link href="https://mohyddin.tk/techs/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pathfinder</title>
       <link>https://mohyddin.tk/portfolio/pathfinder/</link>
